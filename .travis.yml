@@ -1,5 +1,6 @@
 language: php
 sudo: false
+dist: trusty
 php:
   - "nightly"
   - "7.3"
