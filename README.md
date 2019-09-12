@@ -1,3 +1,5 @@
+DokuWiki
+--------------
 All documentation for DokuWiki is available online
 at http://www.dokuwiki.org/
 
